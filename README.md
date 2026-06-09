@@ -1,5 +1,7 @@
 がが
 
+- [GitHub Gist](https://gist.github.com/mar-tusita)をつかいはじめました。
+
 <!--
 ### Hi there 👋
 
