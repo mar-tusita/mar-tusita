@@ -2,7 +2,7 @@
 
 - [GitHub Gist](https://gist.github.com/mar-tusita)を使い始めました（現状は昔の文書のサルベージをおいただけ）。
 - [scholist](https://github.com/mar-tusita/scholist)は現状alpha release位、最低限変なことが起きずに使えるくらいにはなっている、はず。FeaturesというよりはUXまわりが全然鍛えられてないので、そのへんが現状の課題（JSONファイルを人間が書く、のはなんとかしたいけど、さてどうしましょう）。
-- [ipsj-luatex](https://github.com/mar-tusita/ipsj-luatex)は、自分で使い始める時用に作っただけ、です。テンプレートにはしたのでよろしければどうぞ。
+- 勢いで、IPSJ/IEICEのLaTeXスタイルファイルを使ったテンプレートリポジトリを作りました（すでにたくさんありそうですが、多分使えるlatexmkrcがおいてあるのがメリットかもしれない）。
 
 <!--
 ### Hi there 👋
