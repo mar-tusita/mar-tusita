@@ -3,12 +3,9 @@
 - [GitHub Gist](https://gist.github.com/mar-tusita)を使い始めました。
   - [LaTeXコンパイルできるGitHub Actions](https://gist.github.com/mar-tusita/6e461fd016be5f978592faccbcc1ffce)はどうしたらいいんや、と思ってやってみた記録を書きました。
 - [scholist](https://github.com/mar-tusita/scholist)は現状alpha release位、最低限変なことが起きずに使えるくらいにはなっている、はず。FeaturesというよりはUXまわりが全然鍛えられてないので、そのへんが現状の課題（JSONファイルを人間が書く、のはなんとかしたいけど、さてどうしましょう）。
-- 勢いで、IPSJ/IEICEのLaTeXスタイルファイルを使ったテンプレートリポジトリを作りました（すでにたくさんありそうですが、多分使えるlatexmkrcがおいてあるのがメリットかもしれない）。
-  - [IPSJ LaTeXスタイルファイル v4.1 テンプレート latexmkrcつき (Works with TeX Live 2026)](https://github.com/mar-tusita/ipsj-platex)
-  - [IEICE 和文論文執筆用スタイルファイル v3.4b テンプレート latexmkrcつき (Works with TeX Live 2026)](https://github.com/mar-tusita/ieicej-platex)
-  - [IEICE 英文論文執筆用スタイルファイル v2.3 テンプレート latexmkrcつき (Works with TeX Live 2026)](https://github.com/mar-tusita/ieice-platex)
-  - [IPSJ Journal 向け LuaTeX クラスファイルのテンプレート latexmkrcつき](https://github.com/mar-tusita/ipsj-luatex)
-    - <https://github.com/attgm/ipsj-luatex>を単にテンプレートにしただけ
+- pLaTeX卒業したいな、と思ったので、情報処理学会のスタイルファイルをLuaLaTeX対応させてみました。多分それなりにましのはず。手元で簡単に集められたファイル13篇（＋そもそもサンプルとして提供されている5篇）で試した限りでは、問題がないことを確認してあります（フォントが変わりますし、pTeXとLuaTeXの差分は無視できないので、100%同じものをLuaLaTeXで作れるわけでは有りませんし、それは絶対できません）。
+  - [LuaLaTeXに対応する情報処理学会（IPSJ）の論文・研究報告用スタイルファイル preview release](https://gist.github.com/mar-tusita/5598fba98874d47935f31f5f08577eba)
+  - [LuaLaTeXに対応する情報処理学会（IPSJ）の論文・研究報告用スタイルファイル README preview release](https://gist.github.com/mar-tusita/79ace5e04a486060b6ac8f8ae2761424)
 
 <!--
 ### Hi there 👋
