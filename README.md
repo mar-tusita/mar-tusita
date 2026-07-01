@@ -4,6 +4,7 @@
   - [LaTeXコンパイルできるGitHub Actions](https://gist.github.com/mar-tusita/6e461fd016be5f978592faccbcc1ffce)はどうしたらいいんや、と思ってやってみた記録を書きました。
 - [scholist](https://github.com/mar-tusita/scholist)は現状alpha release位、最低限変なことが起きずに使えるくらいにはなっている、はず。FeaturesというよりはUXまわりが全然鍛えられてないので、そのへんが現状の課題（JSONファイルを人間が書く、のはなんとかしたいけど、さてどうしましょう）。
 - pLaTeX卒業したいな、と思ったので、[情報処理学会のスタイルファイルをLuaLaTeX対応](https://mar-tusita.github.io/ipsj-lualatex/)させてみました。なんか変だった、とか、IPSJ側のスタイルフィルを更新された、とかがあれば教えてください。
+- [WSLが直接Linux container動かせる](https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/)、って幸せな時代になったので、[Windows上でVSCodeを使うLaTeX環境の構築](https://gist.github.com/mar-tusita/32ca9ee4447b5a5b8bd10431043935db)を書きました（昔書いた奴を改訂）。Windows限定だけど、もうこれが楽なので、TeX Live使うためだけにDev Container使う、って方法はやんなくていいんじゃないかなあ。
 
 <!--
 ### Hi there 👋
