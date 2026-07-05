@@ -1,7 +1,7 @@
 がが
 
 - [scholist](https://github.com/mar-tusita/scholist)は現状alpha release位、最低限変なことが起きずに使えるくらいにはなっている、はず。FeaturesというよりはUXまわりが全然鍛えられてないので、そのへんが現状の課題（JSONファイルを人間が書く、のはなんとかしたいけど、さてどうしましょう）。
-- pLaTeX卒業したいな、と思ったので、[情報処理学会のスタイルファイルをLuaLaTeX対応](https://mar-tusita.github.io/ipsj-lualatex/)させてみました。なんか変だった、とか、IPSJ側のスタイルフィルを更新された、とかがあれば教えてください。
+- pLaTeX卒業したいな、と思ったので、[情報処理学会のスタイルファイルをLuaLaTeX対応](https://mar-tusita.github.io/ipsj-lualatex/)させてみました。なんか変だった、とか、IPSJ側のスタイルファイルが更新された、とかがあれば教えてください。
 
 <!--
 ### Hi there 👋
