@@ -2,6 +2,7 @@
 
 - [scholist](https://github.com/mar-tusita/scholist)は現状alpha release位、最低限変なことが起きずに使えるくらいにはなっている、はず。FeaturesというよりはUXまわりが全然鍛えられてないので、そのへんが現状の課題（JSONファイルを人間が書く、のはなんとかしたいけど、さてどうしましょう）。
 - pLaTeX卒業したいな、と思ったので、[情報処理学会のスタイルファイルをLuaLaTeX対応](https://mar-tusita.github.io/ipsj-lualatex/)させてみました。なんか変だった、とか、IPSJ側のスタイルファイルが更新された、とかがあれば教えてください。
+- 世の中たくさんあるのは理解してますが、単に私の需要を満たしたかったので、[情報処理学会LaTeXスタイルファイル](https://github.com/mar-tusita/ipsj-platex)と[IEICE 和文論文用LaTeXスタイルファイル](https://github.com/mar-tusita/ieicej-platex)と[IEICE 英文論文用LaTeXスタイルファイル](https://github.com/mar-tusita/ieice-platex)のテンプレートリポジトリを作ってあります。他とちょっとだけ違うのは、TeX Live 2026動作確認済latexmkrcつき、なのでそのままOverleafに持っていって使ってもいい、はず。
 
 <!--
 ### Hi there 👋
